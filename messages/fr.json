@@ -1,0 +1,243 @@
+{
+  "application_section": {
+    "title": "JAMAIS AUPARAVANT UN PRODUIT N'A FAIT AUTANT DE CHOSES !",
+    "subTitle": "application",
+    "description": "Du bricoleur maison au technicien industriel professionnel formé, LLFA® est une commodité essentielle dans la boîte à outils de tout réparateur ! C'est un produit extrêmement polyvalent avec de nombreuses utilisations et fonctionnalités différentes. La solidité de LLFA® en fait à la fois une solution d'isolation compétente et un produit de réparation de perforation inestimable. Un tuyau ou un tuyau percé enveloppé hermétiquement avec du ruban LLFA® résistera immédiatement à la pression interne car l'action de fusion se produit si rapidement. Il peut arrêter les fuites sans avoir à couper la source d'eau. (*Pour plus d'informations sur le fonctionnement du ruban LLFA®, cliquez sur le lien « Produit »).",
+    "button": "En savoir plus",
+    "cards": {
+      "card1": {
+        "title": "PLOMBERIE / CVC",
+        "description": "Scelle les fuites en direct jusqu'à 150PSI, sur l'eau, l'air et la vapeur."
+      },
+      "card2": {
+        "title": "GAZ NATUREL",
+        "description": "Utilisé par les principales sociétés de gaz naturel localement et internationalement."
+      },
+      "card3": {
+        "title": "ÉLECTRIQUE",
+        "description": "Performance exceptionnelle pour l'isolation haute ou basse tension."
+      },
+      "card4": {
+        "title": "TÉLÉCOM",
+        "description": "Fournit un joint durable dans des conditions environnementales extrêmes."
+      },
+      "button": "Voir plus"
+    }
+  },
+  "notFound": {
+    "title": "Page non trouvée",
+    "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.",
+    "button": "aller à la page d'accueil"
+  },
+  "application": {
+    "titles": {
+      "plumbing_hvac": "Plomberie / CVC",
+      "natural_gas": "Gaz Naturel",
+      "electrical": "Électrique",
+      "telecom": "Télécom"
+    },
+    "descriptions": {
+      "plumbing_hvac": "LLFA® est suffisamment résistant pour réparer les tuyaux endommagés et fuyants soumis à des variations de pression et de température, sans avoir à couper la source d'eau. Il scellera les fuites jusqu'à 150 PSI (eau, air et vapeur). Un tuyau ou un tuyau percé enveloppé hermétiquement avec LLFA® résistera immédiatement à la pression interne car l'action de fusion se produit si rapidement. L'absorption d'eau spécifiée de LLFA® est <0,5 % (l'exigence mil spec pour les produits à base de silicone est <3,0 %). En raison de la caractéristique d'absorption d'eau extrêmement faible et de sa grande résistance à la traction, l'eau ou l'humidité ne pénétreront pas à travers le ruban. Contrairement à LLFA®, d'autres produits sont moins efficaces dans des conditions de froid extrême ou d'humidité. Le ruban LLFA® maintient la stabilité de la température et peut être stocké sur le tableau de bord de votre camion le jour le plus chaud ou dans votre boîte à outils le jour le plus froid. La couleur la plus courante de LLFA® est le rouge, mais cela ne l'empêche pas d'être vert, sûr pour l'environnement et non toxique, sûr pour l'eau potable (approuvé par WRAS). (Ajouter plus tard lorsque nous aurons l'approbation officielle) Le ruban LLFA® fonctionne très bien sur les tuyaux galvanisés, en cuivre, en PVC, en fonte et en diverses formes de tuyaux en plastique. Il arrête également et prévient la corrosion tout en étant adapté à l'enfouissement.",
+      "natural_gas": "Le ruban LLFA® a été conçu pour sceller les fuites dans des conditions météorologiques difficiles et est actuellement utilisé comme réparation permanente pour les fuites de gaz naturel par les principales sociétés de gaz naturel, localement et internationalement. LLFA® peut également être utilisé comme réparation d'urgence temporaire par les premiers intervenants. Les caractéristiques de LLFA® incluent : Application simple et temps de préparation minimal Stabilité prouvée de -90°C à 260°C / -130°F à 500°F Maintient ses propriétés s'il est exposé à CH4, H2S et O2 Résistance à la traction : >1 200 PSI Scellement des fuites jusqu'à 150 PSI ou 1 MPa Hautement résistant aux UV et à l'ozone Retrait simple ; pas de résidu collant Solution respectueuse de l'environnement qui ne contribuera pas à la corrosion extérieure des tuyaux. La solidité de LLFA® en fait à la fois une solution d'isolation compétente et un produit de réparation de perforation inestimable. Un tuyau ou un tuyau percé enveloppé hermétiquement avec LLFA® résistera immédiatement à la pression interne car l'action de fusion se produit si rapidement. Contrairement à LLFA®, d'autres produits sont moins efficaces dans des conditions de froid extrême ou d'humidité. Le ruban LLFA® maintient la stabilité de la température et peut être stocké sur le tableau de bord de votre camion le jour le plus chaud ou dans votre boîte à outils la nuit la plus froide.",
+      "electrical": "LLFA® forme un joint durable adapté aux applications basse, moyenne et haute tension, jusqu'à 69 000 volts et a été utilisé pour isoler les sauteurs sur les lignes de transmission haute tension. Deux couches de ruban LLFA® ont une valeur diélectrique allant jusqu'à 32 KV, et conviennent à de nombreuses applications électriques, y compris : isolation des fils de moteur, joints, terminaisons et réparations de gaines de câbles. LLFA® peut être utilisé pour isoler et sceller les épissures de câbles électriques où une stabilité élevée et basse température est nécessaire, et où une résistance à l'humidité, aux intempéries est requise. LLFA® est spécifiquement prouvé par des tests de laboratoire indépendants pour être fiable dans la plage de température de -90°C à 260°C ou -130°F à 500°F. Contrairement à LLFA®, d'autres produits sont moins efficaces dans des conditions de froid extrême ou d'humidité. LLFA® maintient la stabilité de la température et peut être stocké sur le tableau de bord de votre camion le jour le plus chaud ou dans votre boîte à outils le jour le plus froid. LLFA® peut également être utilisé pour le jointage, le harnais, l'étanchéité et la protection contre les UV. Il est également adapté à l'enfouissement et est respectueux de l'environnement et non toxique.",
+      "telecom": "Le ruban LLFA® est un produit idéal pour les techniciens de l'industrie des télécommunications. Comme il est composé de couches auto-fusionnantes qui forment un joint de compression à long terme, il est capable de maintenir ses propriétés, même dans des conditions environnementales extrêmes. LLFA® est imperméable. L'absorption d'eau spécifiée de LLFA® est inférieure à 0,5 % (l'exigence pour la plupart des produits à base de silicone est <3,0 %). En raison de la caractéristique d'absorption d'eau extrêmement faible et de sa grande résistance à la traction, l'eau ou l'humidité ne pénétreront pas à travers le ruban ou ne migreront pas le long de la gaine du câble. La solidité du ruban LLFA® en fait à la fois une solution d'isolation compétente et un produit de réparation de perforation inestimable. Un tuyau ou un tuyau percé enveloppé hermétiquement avec du ruban LLFA® résistera immédiatement à la pression interne car l'action de fusion se produit si rapidement. Il peut sceller les fuites jusqu'à 150 PSI air et vapeur. Contrairement à LLFA®, d'autres produits sont moins efficaces dans des conditions de froid extrême ou d'humidité. Le ruban LLFA® maintient la stabilité de la température et peut être stocké sur le tableau de bord de votre camion le jour le plus chaud ou dans votre boîte à outils la nuit la plus froide. Le ruban LLFA® est facilement appliqué, durable et résistant. Il est également adapté à l'enfouissement et est respectueux de l'environnement et non toxique."
+    },
+    "headings": {
+      "subTitle": "application"
+    }
+  },
+  "videos": {
+    "title": "Vidéos",
+    "subTitle": "Nos Vidéos"
+  },
+  "products_list": {
+    "title": "produits",
+    "subTitle": "Liste de Produits",
+    "description": "Descriptions des produits LLFA®",
+    "products": {
+      "product1": "LLFA® Tape, Rouge, 2\" X 0.04\" X 36 pieds",
+      "product2": "LLFA® Tape, Rouge, 1” X 0.04” X 36 pieds",
+      "product3": "LLFA® Tape, Noir, 1” X 0.04” X 36 pieds",
+      "product4": "LLFA® Smooth Thin, Rouge, 1” de large, 0.08” à 0.125” d'épaisseur, poids total de 0.22lbs.",
+      "product5": "LLFA® Smooth strip, Rouge, bande de 5/16” X ¾” (poids total de 1/4lb)",
+      "product6": "LLFA® Smooth Brick, Rouge, ≈ brique de 4\" de large (poids total de 6 onces)",
+      "product7": "LLFA® Garde, rouleau de 3” de large X 5 pieds de long, P/N E6-13-20-3/5",
+      "product8": "LLFA® Garde, rouleau de 3” de large X 12 pieds de long, P/N E6-13-20-3/12",
+      "product9": "LLFA® Garde, rouleau de 4” de large X 15 pieds de long, P/N E6-13-20-4/15",
+      "product10": "LLFA® Garde, rouleau de 3” de large X 15 pieds de long, P/N E6-13-20-3/15",
+      "product11": "LLFA® Garde, rouleau de 2” de large X 15 pieds de long, P/N E6-13-20-2/15"
+    }
+  },
+  "products": {
+    "title": "produits",
+    "subTitle": "nos produits",
+    "products_slider": {
+      "product1": "LLFA® Tape",
+      "product2": "LLFA® Smooth",
+      "product3": "Liste de Produits"
+    },
+    "button": "Détails du produit"
+  },
+  "product_page": {
+    "subTitle": "Produits",
+    "share": "Partager ce produit sur",
+    "tape": {
+      "featuresTitle": "Certaines des caractéristiques uniques du ruban LLFA® sont :",
+      "features": [
+        "Il est composé de couches auto-fusionnantes qui forment un joint de compression étanche à long terme.",
+        "En raison de ses propriétés remarquables, il est utilisé pour réparer les tuyaux d'eau, d'air et de vapeur percés soumis à des variations de pression et de température.",
+        "Il est utilisé pour isoler et sceller les épissures de câbles électriques où une stabilité élevée et basse température est nécessaire, et où une résistance à l'humidité, aux intempéries est requise.",
+        "Mécaniquement, il fournit un joint de compression durable qui maintient ses propriétés, même dans des conditions environnementales extrêmes.",
+        "Peut être utilisé pour des applications temporaires et à long terme.",
+        "Il est adapté à l'isolation haute tension et peut également être utilisé pour le jointage, l'étanchéité et la protection contre les UV."
+      ],
+      "competitionsTitle": "Bien que les rubans auto-amalgamants soient sur le marché depuis de nombreuses années, ce qui distingue le ruban LLFA® de nos concurrents est :",
+      "competition": [
+        "Un joint plus fort et plus rapide à fusionner.",
+        "Pratiquement 0% d'absorption d'eau.",
+        "Résistant à l'abrasion et à la déchirure.",
+        "Facile à appliquer, durable et résilient."
+      ],
+      "title": "LLFA® Tape",
+      "description": "GTG® Engineering présente un nouveau produit révolutionnaire, le ruban LLFA®, qui change la façon dont l'industrie isole et scelle les gaz, liquides, vapeur et électricité. C'est un produit idéal pour les électriciens, les plombiers et les techniciens en gaz naturel. Comment ça marche : Le ruban LLFA® peut être appliqué sur presque n'importe quel matériau de surface, du galvanisé et de la fonte au cuivre et à tous les types de plastiques ou de caoutchoucs. Il ne contient pas d'adhésif, donc tirer le ruban aussi serré que possible sur toutes les couches permet de sceller par compression. Une fois appliqué, le LLFA® fusionne avec lui-même, formant ainsi un lien robuste ou une « gaine en caoutchouc » sur la fuite ou la connexion. Sa fonction principale étant l'étanchéité par compression, il n'y a aucun problème d'adhérence et de compatibilité. Il ne perd pas sa tension avec le temps, même dans des environnements difficiles."
+    },
+    "smooth": {
+      "featuresTitle": "Certaines des caractéristiques notables de LLFA® Smooth sont :",
+      "features": [
+        "Il est suffisamment doux pour se mouler dans n'importe quelle cavité ou changement de diamètre, mais suffisamment cohérent pour maintenir sa forme une fois appliqué.",
+        "Il fait gagner du temps car LLFA® Smooth se moule rapidement et facilement, sans l'utilisation de gants ou de produits chimiques.",
+        "Il permet de réaliser des économies en réduisant le temps d'application. De plus, en n'ayant pas à créer de couches supplémentaires pour combler les lacunes, moins de ruban LLFA® est nécessaire pour créer le joint."
+      ],
+      "competitionsTitle": "Propriétés de LLFA® Smooth :",
+      "competition": [
+        "Mastic isolant pour épissures électriques.",
+        "Lisse = >113g / pack de ¼lb.",
+        "Brique lisse = 100mm x 150mm / 4” x 6”.",
+        "Lisse mince = >100g 2mm x 25mm (.08”x1”)."
+      ],
+      "title": "LLFA® Smooth",
+      "description": "LLFA® Smooth est un mastic isolant à action rapide qui reste flexible et fonctionne bien en conjonction avec le ruban LLFA®. C'est une solution idéale pour remplir les surfaces rugueuses et/ou inégales avant d'utiliser le ruban LLFA® pour sceller la fuite. LLFA® Smooth a la même isolation et la même stabilité de température que le ruban LLFA®. Une fois appliqués, le ruban LLFA® et LLFA® Smooth s'amalgameront avec le temps pour former une masse homogène."
+    }
+  },
+  "documentation_page": {
+    "subTitle": "Documentation",
+    "title": "DOCUMENTS PDF MULTILINGUES",
+    "distributorsTitle": "Distributeurs Internationaux",
+    "pdf_viewer": {
+      "manual": "Manuel",
+      "safety": "Fiches de données de sécurité",
+      "select": "Sélectionnez un PDF"
+    }
+  },
+  "news_page": {
+    "subTitle": "Dernières nouvelles",
+    "title": "Nouvelles LLFA®",
+    "categories": {
+      "category1": "Tous",
+      "category2": "Application",
+      "category3": "Tutoriel DIY",
+      "category4": "Nouvelles",
+      "category5": "Avis",
+      "category6": "Non classé"
+    },
+    "pagination": {
+      "next": "suivant",
+      "previous": "précédent"
+    },
+    "newsData": {
+      "translateTitles": {
+        "title1": "LLFA® Tape utilisé pour sceller une FUITE DE VAPEUR sur une conduite de drainage de vapeur basse pression à la centrale nucléaire",
+        "title2": "Réparation de fuite d'huile de turbine, avec LLFA® Tape, réalisée par JEA Northside Generating Station en Floride, USA",
+        "title3": "LLFA® Tape utilisé pour sceller une fuite de conduite de gaz de ville !",
+        "title4": "LLFA® Tape utilisé pour réparer une fuite due à un barrage de glace sur le toit",
+        "title5": "Les clients examinent le LLFA® Tape!",
+        "title6": "LLFA® Tape répare les fuites ER sur les navires de marine",
+        "title7": "LLFA® Tape scelle les fuites sur une grande conduite d'eau souterraine.",
+        "title8": "Concours de compétences en étanchéité sous pression",
+        "title9": "Comment éviter des réparations coûteuses en réparant vous-même les fuites !",
+        "title10": "LLFA® Tape utilisé pour sécuriser une fuite de vapeur industrielle",
+        "title11": "Réparation de tuyaux qui fuient dans une ancienne maison",
+        "title12": "Tests de jointoiement de câbles certifiés ASTA BEAB",
+        "title13": "Réparation de tuyaux d'eau corrodés et exposés"
+      },
+      "descriptions": {
+        "description1": "Après que GTG® ait fourni des informations électroniques, des informations verbales et des instructions d'installation, le personnel de la centrale nucléaire a réussi à sceller la fuite de la ligne de vapeur ci-dessus. Voici un extrait de l'e-mail de la centrale.\n\n“Nous avons parlé il y a quelques mois de l'utilisation de votre produit ici sur le site. Avec votre aide, nous avons pu l'approuver et aujourd'hui, nous avons installé le ruban sur une fuite de vapeur sur une conduite de drainage de vapeur basse pression selon les directives que vous nous aviez envoyées. Jusqu'à présent, cela semble bien et nous continuerons à le surveiller pendant les prochains jours.\n\nJ'ai joint quelques photos avant et après pour vous.\n\nMerci d'avoir pris le temps de me parler il y a quelques mois et de votre temps avec notre ingénieur.”",
+        "description2": "Lors d'une démonstration de ruban LLFA® réalisée par GTG® Engineering, Inc. chez JEA, Northside Station, une demande a été faite pour réparer une fuite d'huile de turbine. La fuite était à l'interface d'un tuyau fileté externe de plus petit diamètre dans un tuyau fileté interne (femelle) de plus grand diamètre associé à un ventilateur d'air primaire pour une chaudière à lit fluidisé circulant de 310 mégawatts. Le roulement est un roulement Sleevoil Pillow Block. La fuite a été scellée en utilisant LLFA® Smooth autour du changement dimensionnel et du ruban LLFA® de 2″ de large sur toute la connexion. Le responsable de la maintenance de la production électrique de JEA a déclaré que la réparation aurait coûté 17 000,00 $ en raison du fait que pour effectuer une réparation complète, l'unité aurait dû être déclassée car ils auraient perdu la moitié de la capacité de production de l'unité pendant la durée de la réparation.\n\nJEA a effectué une réparation, eux-mêmes, en utilisant le ruban LLFA® et LLFA® Smooth dans lequel la fuite provenait d'une plaque plate où le raccord de tuyau entrait dans la plaque. Il y avait une fuite d'huile de la plaque plate au niveau du raccord. GTG® recommande normalement que le ruban LLFA® doive s'étendre d'un minimum de 1 à 1-1/2″ au-delà de la fuite pour créer un joint efficace ; cependant, JEA a utilisé une combinaison de ruban LLFA® et de LLFA® Smooth pour créer un « joint de têtard » qui a pu sceller contre une plaque plate. Je pense que nous pouvons dire en toute sécurité 1-1/4 à 1-1/2 gallons d'huile en 24 heures. Voici un extrait de l'e-mail de JEA.\n\n“. J'ai trouvé une solution pour cela (sceller une fuite contre une plaque plate) en utilisant votre produit (LLFA®). J'ai coupé un morceau fin de lisse, je l'ai roulé en forme de cylindre fin et je l'ai ensuite enroulé autour d'un côté du ruban. Semblable à un joint de têtard. Je l'ai appliqué en appuyant le lisse contre la plaque plate. La théorie est que la compression du ruban presserait le lisse encapsulé contre la plaque, créant un joint. Cela semble avoir fonctionné. Impressionné jusqu'à présent.”\n\nJEA Northside a effectué une autre réparation de style « joint de têtard », en utilisant le ruban LLFA® et LLFA® Smooth. Voici un extrait de l'e-mail de JEA.\n\n“J'espère que tout va bien pour vous. Ces photos montrent une autre fuite d'huile que nous avons enveloppée. C'est sur un roulement similaire à celui que vous avez (GTG®) fait pour moi. La différence étant que ce roulement est plus grand et fuyait en fait environ deux fois plus, 2-1/2 + gallons toutes les 24 heures. Cela a été pris 48 heures après l'emballage et ne montre aucun signe de fuite. Ce truc est bon. Merci”",
+        "description3": "Comme nous le savons tous, l'accès à de l'eau propre ainsi que l'entretien approprié du gaz sont des nécessités de base, mais c'est une tâche énorme de maintenir tous les systèmes et infrastructures en bon état de fonctionnement. Sans cela, il y a des implications évidentes, telles qu'un faible accès à l'eau potable et des incidences plus élevées de maladies liées à l'eau. L'accès à une source d'eau appropriée ne signifie pas nécessairement un accès à de l'eau propre. Les tuyaux peuvent être rouillés, corrodés et contaminés, ce qui peut également créer des fuites dangereuses dans les conduites de gaz. Donc, dans un pays aussi densément peuplé que la Chine, maintenir une infrastructure urbaine appropriée peut représenter un énorme défi.\n\nLe 2 avril 2018, une entreprise de gaz d'un port du sud-ouest de la Chine a utilisé nos produits, LLFA® Smooth et LLFA® Tape, pour sceller la principale conduite de gaz de la ville. Elle avait été corrodée et avait une pression de fonctionnement de 7 kg.\n\nPour cette tâche, l'équipe de construction a utilisé LLFA® Smooth pour combler les zones corrodées pour un blocage supplémentaire des fuites, suivi du ruban de compression LLFA® de 2 pouces de large. Ils ont également utilisé un outil de tension pour tirer le ruban à sa tension maximale pour des résultats optimaux. La réparation terminée a été en outre protégée par une enveloppe en fibre.\n\nAu total, le scellement de cette fuite majeure sur une conduite de gaz principale de la ville a pris 40 minutes à compléter avec des résultats efficaces. Merci à tous les travailleurs de la ville diligents qui aident à garder nos conduites d'eau et de gaz exemptes de fuites et de corrosion !",
+        "description4": "En mars 2015, nous avons eu une inondation sérieuse dans les murs de notre maison patrimoniale. Pendant l'hiver, la neige et la glace s'étaient accumulées dans les vallées du toit, provoquant l'accumulation d'eau et de condensation dans les murs jusqu'à ce que le plafond de notre salon s'effondre. Ce processus est connu sous le nom de « barrage de glace ».\n\nIl a nécessité une rénovation majeure de la part des entrepreneurs de notre compagnie d'assurances, qui ont dû démolir les cloisons sèches pourries. Lorsque les murs ont été démontés et que les tuyaux ont été exposés, nous avons trouvé ce tuyau d'égout vertical d'environ 60 ans. Ce tuyau en fonte avait développé des fuites de trous d'épingle qui avaient été scellées par un matériau inefficace qui avait fui des trous qu'il était censé boucher (*pic A). Si elles s'étaient aggravées, il aurait fallu rouvrir le mur. Pour éviter les problèmes futurs, nous avons enveloppé le tuyau avec du ruban LLFA® (*Pic B).\n\nL'avantage d'utiliser du ruban LLFA® est qu'une fois appliqué, il fusionne avec lui-même, formant ainsi une liaison ou une « gaine en caoutchouc » sur la fuite ou la connexion. Sa fonction principale étant l'étanchéité par compression, il n'y a aucun problème d'adhérence et de compatibilité. Il ne perd pas sa tension au fil du temps, même dans des environnements difficiles.",
+        "description5": "LLFA® In-Box : \n\nNous aimons toujours entendre parler de nos clients, qu'ils soient utilisateurs occasionnels de notre produit ou techniciens de terrain qui l'utilisent tous les jours. C'est excitant lorsque nous devons appeler un artisan à notre domicile pour des travaux d'entretien et de réparation, et que nous voyons un rouleau de ruban LLFA® dans sa boîte à outils !\n\nVoici quelques-uns de nos avis clients récents. Nous aimerions que vous essayiez notre produit ! Veuillez nous laisser un commentaire ou nous contacter si vous souhaitez savoir où vous pouvez trouver nos solutions LLFA®.\n\nAvis client #1 - De Andrew Stewart à Stewart house LLP :\n\n\"Bonne nouvelle ! J'ai pu passer sous ma terrasse pour appliquer le ruban - cela a parfaitement fonctionné ! J'ai été vraiment impressionné par son efficacité - facile à appliquer et aucune infiltration d'eau.\" - De Andrew Stewart \n\nAvis client #2 - Réparation électrique par un étudiant en construction du Collège Algonquin, Tim Hawkins :\n\n\"Nous changions la pompe dans la fontaine du parking. Nous ne pouvions pas retirer les fils de la base de la fontaine, alors nous avons dû retirer la base. Mais les vis étaient usées à partir de la base de la fontaine en pierre. Nous devions soit percer les vis et en mettre de nouvelles dans le béton, soit couper le fil. Nous envisagions d'essayer de retirer la base de la fontaine même si cela représentait beaucoup de travail car nous n'avions pas envisagé une autre solution. Lorsque nous avons acheté la pompe, elle était livrée avec une fiche qui ne pouvait pas passer par le trou en haut de la base de la fontaine. Donc, la seule façon de l'installer était de couper le fil. Nous avons donc décidé d'utiliser le ruban pour réparer le fil. Cela a parfaitement fonctionné.\n\nNous l'avons utilisé dans la cuisine, il y avait un tuyau de vidange qui avait un joint cassé. Ils n'en avaient pas un qui le réparerait. Alors je l'ai enveloppé avec le ruban et tout va bien, il n'a pas fui depuis.\" \n\nGTG® Engineering Canada serait ravi d'avoir de vos nouvelles ! N'hésitez pas à nous contacter à tout moment, soit par téléphone, soit par e-mail. Si vous êtes un bricoleur et que vous souhaitez simplement essayer notre produit, vous pouvez trouver nos paquets de bandes sous le nom Blue Monster chez Lowe's aux États-Unis, ou sous la marque Masters en rouleaux de 12 pieds ou en paquets de bandes chez Home Depot Canada. Vous pouvez également contacter notre distributeur canadien, GF Thompson, pour tous les emplacements où notre gamme étendue de produits LLFA® est vendue.",
+        "description6": "Le MV Logos, exploité par Good Books for All (GBA), parcourt le monde en offrant des manuels scolaires et des centaines d'autres livres à des pays du monde entier comme ressource pour l'apprentissage.\n\nEn raison d'une panne du congélateur, le service de restauration a été réduit à des sandwichs froids et des conserves. Le congélateur était en panne car le câble chauffant avait surchauffé et avait fait fondre le tuyau de vidange du compresseur. Il était enroulé autour de la ligne de vidange pour l'empêcher de geler.\n\nLes pièces de rechange ne pouvaient pas être acquises avant plus tard dans le voyage, donc une solution rapide et efficace était nécessaire pour que le service de restauration puisse continuer. Le ruban LLFA® a été appliqué sur le tuyau pour isoler contre tout court-circuit électrique et la fonte du tuyau. Le câble chauffant a ensuite été ré-appliqué autour du tuyau et mis en service.\n\nUn autre exemple, le navire actuellement connu sous le nom de MV Doulos Phos détenait le record du plus ancien navire à passagers actif au monde jusqu'en décembre 2009, ayant parcouru les océans du monde depuis sa construction en 1914. Lorsque les membres de GTG® ont pu visiter le Doulos, il y avait plus de 200 personnes à bord du navire.\n\nNous avons pu visiter la salle des machines et voir les grands moteurs.\n\nPendant le voyage, il y avait une fuite d'eau de mer située dans la salle des machines. Dans des circonstances normales, l'équipage aurait dû arrêter les moteurs et vider le système au milieu du voyage loin en mer. Cependant, l'ingénieur en chef connaissait notre produit, avait un rouleau dans son bureau et a décidé de l'essayer. Le ruban LLFA® a scellé la fuite jusqu'à ce qu'ils puissent atteindre un port sec où de nombreuses autres réparations étaient effectuées. Le tuyau a finalement été re-soudé.\n\nDans les deux cas, le ruban LLFA® est venu à la rescousse et a permis d'économiser du temps et de l'argent en offrant une solution rapide et économique dans des situations d'urgence.",
+        "description7": "Célébrant que le ruban LLFA® a fourni une autre solution à un client précieux en Ontario pris dans une situation difficile.\n\nLes réparateurs ont pu sceller des fuites importantes provenant d'environ 25% du raccord de réduction sur une fuite de tuyau d'eau de 16-18 pouces.\n\nVoici une photo du tuyau dans son état d'origine avant l'utilisation du ruban LLFA®.\n\nLe tuyau était enterré à 10 pieds sous terre et nécessitait une réparation immédiate.\n\nLes réparateurs ont scellé la fuite avec du ruban LLFA® et une enveloppe en fibre pour créer un joint sécurisé.\n\nGTG® utilise un outil de tension pour tirer le ruban LLFA® à sa tension maximale possible pour aider à sceller la fuite.",
+        "description8": "Fin octobre 2016, le « Foshan Gas Group » est passé de ses méthodes traditionnelles de scellement temporaire des fuites sous pression à l'utilisation du ruban LLFA®, une solution plus permanente et fiable. Ils ont organisé un concours de « compétences en étanchéité sous pression » en créant un réseau de tuyaux avec des trous pressurisés à sceller.\n\nConditions de compétition : Chaque tuyau PE mesurait 63 mm de diamètre, avec un pore de fuite d'environ 8 mm de perforation et une pression d'azote de 2KG.\n\nExigences de la compétition : Chaque concurrent devait enrouler un rouleau de ruban LLFA® de 1 pouce de large (25,4 mm) à la main le long d'un tuyau, sur 10,91 mètres de longueur.\n\nTemps de la compétition : 20 minutes pour compléter.\n\nRègles de la compétition :\n1. Le technicien doit commencer à enrouler d'un côté de la fuite, à au moins une largeur de ruban du site de la fuite. La première couche doit être à faible tension, sur le LLFA® Smooth (un autre produit LLFA®, qui est un mastic).\n2. Créer un enroulement à pleine tension sur le centre de la fuite, formant un joint.\n3. Utilisant une méthode de demi-chevauchement, superposer le ruban lors de l'enroulement, sans provoquer de plis dans le ruban. Chaque application doit rester hors du bord du ruban et être positionnée aussi près du milieu que possible.\n4. Après avoir complété une fermeture réussie, le technicien doit enrouler une couche protectrice de tension légère, couvrant toute la couche qui a été scellée.\n5. La largeur totale de la couche de joint doit être 2 fois le diamètre du tuyau.\n\nTest de fuite : Tester les fuites en utilisant du savon de détection de fuites.\n\nNotation : Aucune fuite et doit être complétée avec succès dans le temps imparti de 20 minutes.\n\nÉquipes : Six différentes entreprises de gaz ont participé.\n\nRésultats : Après trois heures de compétitions intenses, cinq des six équipes ont complété la tâche de scellement sous pression en 20 minutes. C'est le premier concours de ce genre au sein du réseau de pipelines de gaz de Chancheng à obtenir de tels résultats réussis.\n\nGrâce à ce concours de compétences, nous avons reconnu le besoin dans l'industrie du gaz de la ville pour cette nouvelle technologie de scellement des fuites, en particulier l'élasticité élevée, la durabilité à long terme et la sécurité de ce produit. Le ruban LLFA® est un produit révolutionnaire qui a grandement amélioré les capacités d'opération d'urgence et les temps de réponse de l'industrie du gaz.\n\nPublié par : LLFA® China 2016-11-14\nDate : 31 octobre 2016\nLieu : Foshan Gas Group, succursale de Gaoming",
+        "description9": "LLFA® IN-BOX :\nNous avons récemment reçu un e-mail intéressant d'un de nos clients nommé Constance de Cardinal, Ontario. Elle nous a raconté que lorsqu'elle était en Floride en janvier dernier, la conduite d'eau qui avait été installée dans leur maison il y a cinquante ans avait éclaté à la rue. Elle a contacté la ville pour couper l'eau et prévoyait de s'occuper de la réparation de la conduite à leur retour de vacances fin mars.\n\nElle avait été informée que vingt ans plus tôt, une réparation près de la conduite principale de la ville avait été effectuée par un plombier local, mais à son étonnement, les plombiers locaux ne voulaient pas du travail de réparer seulement la fuite. Ils voulaient apporter une pelle mécanique, creuser son jardin avant, enlever l'érable ainsi que des parties de son patio pour installer une toute nouvelle conduite de cuivre de la conduite principale de la ville à leur maison, pour un coût minimum de 3500 $ !!\n\nEn plus du coût considérable, Constance ne voulait pas perdre son érable et une partie de son patio, alors elle a creusé la zone avec une pelle à bout rond. Elle a pu localiser deux petites fissures en cheveux causées par les dommages dus au gel au niveau des joints de cuivre situés entre la conduite principale et la conduite galvanisée de sa maison.\n\nDans le but d'apprendre à réparer ce problème elle-même, elle est allée en ligne et le surintendant des travaux publics locaux lui a apporté un rouleau de ruban de compression LLFA®. Elle a utilisé le ruban et, selon ses mots, « WOW …nous avons réellement arrêté ces fuites ! » \n\nCeci est un bon exemple de la manière dont le retrait et le remplacement de tuyaux qui fuient peuvent coûter cher. Bien qu'il y ait des moments où vous devrez peut-être contacter un professionnel, apprendre à repérer et à réparer les fuites par vous-même peut grandement réduire vos coûts et votre frustration et éviter les entrepreneurs coûteux.\n\n\nCOMMENT RÉPARER UNE FUITE :\n\nDès que vous repérez une fuite, traitez-la immédiatement. Cela peut être délicat et peut prendre une bonne partie de votre journée, mais cela évitera d'autres dommages coûteux à votre maison.\n\nTout d'abord, trouvez un seau ou un bol et placez-le sous la fuite pour récupérer l'eau qui coule. Ensuite, coupez l'alimentation en eau de cette zone. Cela se fait en trouvant la vanne sur la conduite d'alimentation et en la tournant dans le sens des aiguilles d'une montre. Si vous ne pouvez pas trouver cela, coupez l'eau de toute la maison à la vanne principale, qui se trouve là où le tuyau d'eau froide entre dans le bâtiment.\n\nCONSEIL : Si la fuite est au plafond et que l'eau s'infiltre d'un endroit précis, faites un petit trou dans le plafond avec un tournevis et placez un seau en dessous pour attraper les gouttes. Cela peut empêcher l'eau de s'accumuler et de faire s'effondrer tout le plafond.\n\nOption 1 : Pour une réparation rapide, vous aurez besoin d'une pince à tube ou d'un morceau de tuyau et d'une pince en C, que vous pouvez obtenir dans votre magasin de bricolage local. Fixez la pince à tube sur le tuyau qui fuit, ou si vous n'en avez pas sous la main, improvisez avec un morceau de caoutchouc découpé d'un tuyau. Assurez-vous qu'il est plus long que le dommage dans le tuyau, puis coupez-le dans le sens de la longueur et enroulez-le contre le tuyau. Maintenez-le en place avec une pince en C et deux blocs de bois ; cela devrait sécuriser la fuite comme une mesure temporaire.\n\nOption 2 : Mastic époxy. Cette matière facilement moulée est bonne pour les joints et les raccords. Nettoyez d'abord les tuyaux avec un chiffon pour éliminer toute saleté et poussière. Pour assurer la protection de vos mains, vous pouvez utiliser des gants en caoutchouc avant d'appliquer. Mélangez le mastic selon les instructions du fabricant, puis une fois qu'il est doux et malléable, appuyez-le autour de la fuite, en vous assurant qu'il y a une bonne couverture. Cela prendra entre quelques heures et une journée pour sécher, en fonction du produit.\n\nOption 3 : Utilisez un ruban d'étanchéité, tel que le ruban de compression LLFA®, que vous pouvez maintenant acheter en paquets de bandes dans tous les magasins Home Depot à travers le Canada, ou dans la plupart des magasins de fournitures de plomberie en Ontario. Il s'agit d'un ruban auto-fusible étanche et solide qui peut facilement être enroulé autour des tuyaux. Cela non seulement arrêtera la fuite, mais vous aidera à éviter le coût élevé du remplacement des tuyaux.\n\nCONSEIL 2 : Si la fuite est persistante et que des dommages visibles sont présents sur le bois environnant et les zones proches de la fuite, assurez-vous d'appeler un professionnel agréé. Les dommages excessifs causés par l'eau peuvent provoquer des moisissures et de la pourriture, qui, si elles ne sont pas traitées, peuvent affecter la stabilité structurelle de votre maison.",
+        "description10": "Dans un pipeline industriel de pétrole, une fuite à haute température s'est produite. La pression et la température de la vapeur saturée sont directement proportionnelles l'une à l'autre ; plus la température est élevée, plus la pression est élevée. [163 ° C la pression de vapeur saturée est de 0,6 MPa ; 260 ° C, la pression de vapeur saturée est de 4,7 MPa]. Le ruban LLFA® a une température de fonctionnement stable qui varie entre -90 ° C et +260 ° C. Pour utiliser efficacement le ruban LLFA® pour les fuites d'étanchéité à haute température, il est nécessaire de pouvoir bloquer la fuite tout en résistant à des températures élevées. Le ruban LLFA®, lorsqu'il est appliqué correctement, peut sceller la vapeur ainsi que l'eau et l'air.",
+        "description11": "Les anciennes maisons sont souvent connues pour leurs charmes et leurs particularités, et lorsqu'elles sont bien entretenues, elles peuvent commander une prime pour les acheteurs recherchant l'histoire ou l'artisanat. Mais demandez à quiconque possède une maison construite avant 1950, et ils peuvent vous dire à quel point il peut être difficile de la maintenir correctement entretenue et mise à jour.\n\nUn problème courant dans les vieilles maisons est les vieux tuyaux. Il y a des années, l'état de l'art de la plomberie était les drains en fonte et les tuyaux d'alimentation en laiton. Maintenant, ces matériaux ont été remplacés (pour la plupart) par du plastique PVC, du cuivre et du polyéthylène réticulé flexible, connu sous le nom de PEX. Mais que les tuyaux soient en plastique, en métal ou une combinaison des deux, beaucoup est en jeu : un seul joint qui fuit peut causer des milliers de dollars de dégâts et, si vous êtes comme la plupart des propriétaires vivant avec un budget, c'est une dépense qui ferait une sérieuse entaille dans vos finances.\n\nMark, le propriétaire d'une maison résidentielle du début du siècle à Niagara Falls, ON, a récemment rencontré ce problème lorsqu'il a remarqué des dégâts d'eau au plafond autour d'un tuyau qui fuyait dans son sous-sol. En raison de l'âge du filetage, le joint dans l'ancien tuyau ne scellait pas et ne se connectait pas au nouveau tuyau PEX. Plutôt que de devoir recourir à une facture de plomberie coûteuse, Mark a pu sceller efficacement la fuite et sécuriser le joint en utilisant du ruban de compression LLFA®. Cela a fourni une solution économique à la fois pratique et facile.",
+        "description12": "Un joint droit et un joint de branche épissés avec du ruban LLFA® et LLFA® Smooth ont subi des tests de type et répondent avec succès aux exigences de la norme BS EN 50393:2006 ! Le test a été réalisé au Royaume-Uni par ERA technology conformément à la norme britannique BS EN 50393:2006, qui dépasse les exigences de la norme IEC équivalente (IEC 61442 & 60502-1) ! Le test a été observé et certifié par ASTA BEAB, le principal organisme indépendant britannique pour les tests électriques et l'approbation de la sécurité des produits.\n\nLa procédure consiste en des tests de référence électriques (continuité/résistance, résistance d'isolation, Hi-pot, etc.), suivis de tests d'impact (voir ci-dessous), de tests de vérification fonctionnelle après impact (sous l'eau pendant 3 heures), de cycles thermiques dans l'air (63 cycles), de cycles thermiques dans l'eau (63 cycles), de tests de vérification fonctionnelle après cycles thermiques et d'examen final.\n\nLe test d'impact a été réalisé en plaçant le joint LLFA® sur une dalle de béton et en l'impactant au milieu et aux deux extrémités avec un bloc d'acier en forme de coin de 4 kg. Le bord d'impact du coin a été lâché d'une hauteur de 1 mètre sur le joint, de sorte que le bord d'impact était parallèle et perpendiculaire à l'axe du joint. Après le test d'impact, le joint LLFA® a été immergé à température ambiante avec une tête d'eau d'un mètre. Il est resté dans l'eau pendant trois (3) heures, après quoi la résistance d'isolation a été testée et le résultat n'a montré aucun changement !",
+        "description13": "Plusieurs réparations utilisant différents produits ont été tentées sans succès sur ce tuyau d'eau corrodé. Même une réparation par bandage de résine activée par l'eau avait échoué car le tuyau se dégradait, causant la réapparition de la fuite.\n\nCette fois, le ruban LLFA® a été chargé de la tâche de sceller la fuite. Après avoir retiré la réparation de résine défectueuse, le ruban LLFA® a été appliqué sur le tuyau pour sceller complètement la zone affectée.\n\nComme le ruban LLFA® est constamment sous tension, il est capable de se déplacer avec le tuyau même lorsqu'il se dilate et se contracte dans cette position exposée sur un toit. De plus, le ruban LLFA® ne sera pas dégradé par les rayons UV. Il s'agit donc d'une bonne réparation.\nCette entrée de blog est un résumé traduit du blog de Matex Co (Japon) : http://llfa-tape.jugem.jp/"
+      },
+      "categories": {
+        "category1": "application, Nouvelles, Non classé",
+        "category2": "application, Nouvelles, Non classé",
+        "category3": "Nouvelles",
+        "category4": "Nouvelles, Avis",
+        "category5": "Nouvelles, Avis",
+        "category6": "Nouvelles",
+        "category7": "Nouvelles",
+        "category8": "Tutoriel DIY, Nouvelles",
+        "category9": "Tutoriel DIY, Nouvelles",
+        "category10": "Nouvelles",
+        "category11": "Nouvelles",
+        "category12": "Nouvelles",
+        "category13": "Nouvelles"
+      },
+      "newsCardBtn": "Lire la suite",
+      "article_page": "Dernières nouvelles"
+    }
+  },
+  "home": {
+    "firstSection": {
+      "title": "Nous sommes GTG® Engineering",
+      "description": "Depuis plus de deux décennies, GTG® Engineering s'efforce de garantir que nos produits LLFA® sont bien conçus, scientifiquement fabriqués et rigoureusement testés pour répondre ou dépasser les normes de l'industrie.",
+      "button": "En savoir plus"
+    },
+    "aboutSection": {
+      "title": "À propos de nous",
+      "description": "Depuis plus de deux décennies, GTG® Engineering s'efforce de garantir que nos produits LLFA® sont bien conçus, scientifiquement fabriqués et rigoureusement testés pour répondre ou dépasser les normes de l'industrie.\n L'objectif principal de notre entreprise est de créer des solutions de produits sûres et durables pour des applications pratiques, tout en maintenant leur fonctionnalité à long terme et leur intégrité structurelle."
+    },
+    "productsSection": {
+      "title": "Nos produits",
+      "button": "Voir tous les produits",
+      "product1": "LLFA® Tape",
+      "product2": "LLFA® Smooth"
+    },
+    "videoSection": {
+      "title": "Excellence en Innovation",
+      "description": "GTG® Engineering fabrique et distribue les produits révolutionnaires LLFA®, qui ont transformé la manière dont l'industrie isole et scelle le gaz, les liquides, la vapeur et l'électricité. C'est une solution idéale pour les électriciens, les plombiers et les techniciens en gaz naturel.\n LLFA® a subi des tests indépendants rigoureux et a prouvé sa résilience dans des environnements extrêmes, tout en étant non toxique et respectueux de l'environnement. Pour plus d'informations sur les solutions LLFA®, veuillez cliquer sur le lien « Produits ».\n En tant qu'organisation, nous nous efforçons d'être des leaders d'opinion dans notre secteur en écoutant nos clients et en collaborant étroitement avec eux afin de trouver les meilleures solutions à leurs défis spécifiques. Plutôt que de simplement vendre un produit, nous cherchons à servir nos clients en créant des « solutions ».\n Nous envisageons que le ruban LLFA® et ses distributeurs soient synonymes du mot « transformation », car nous cherchons à fournir des solutions pratiques et uniques grâce à des applications et des méthodes personnalisées qui utilisent au mieux notre produit tout en répondant aux besoins individuels de nos clients.\n Fondée et gérée sur de solides principes éthiques, la livraison d'un produit de haute qualité, valeur et performance est une partie essentielle de la marque GTG®. De plus, nous gérons une organisation caritative qui soutient des œuvres de bienfaisance locales et internationales.",
+      "watch": "REGARDER LA VIDÉO"
+    },
+    "newsSection": {
+      "title": "Nos dernières nouvelles",
+      "button": "Toutes les nouvelles"
+    }
+  },
+  "header": {
+    "home": "Accueil",
+    "products": "Produits",
+    "videos": "Vidéos",
+    "news": "Actualités LLFA®",
+    "documentation": "DOCUMENTS PDF MULTILINGUES",
+    "autoDetect": "Détection automatique"
+  },
+  "footer": {
+    "description": "Depuis plus de deux décennies, GTG® Engineering s'efforce de garantir que nos produits LLFA® sont bien conçus, scientifiquement fabriqués et rigoureusement testés pour répondre ou dépasser les normes de l'industrie.",
+    "links": {
+      "home": "Accueil",
+      "products": "Produits",
+      "videos": "Vidéos",
+      "news": "Actualités LLFA®",
+      "documentation": "DOCUMENTS PDF MULTILINGUES"
+    },
+    "clickToShow": "cliquer pour afficher",
+    "copyRight": "© Copyright 2024. Tous droits réservés."
+  }
+}
